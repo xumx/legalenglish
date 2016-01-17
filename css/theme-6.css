@@ -1,0 +1,21 @@
+h2
+{
+	background:url('../img/theme-6/content-h-bg.png');
+}
+
+.headline-wrapper
+{
+	background-image:url('../img/theme-6/headline-bg.jpg');
+	background-color:#00010d;
+}
+
+.headline
+{
+	background-image:url('../img/theme-6/headline-lines.png');
+}
+
+.footerline
+{
+	background-image:url('../img/theme-6/headline-bg.jpg');
+	background-color:#00010d;
+}

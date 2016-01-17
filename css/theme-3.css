@@ -1,0 +1,62 @@
+h2
+{
+	background:url('../img/theme-3/content-h-bg.png');
+}
+
+.headline-wrapper
+{
+	background-image:url('../img/theme-3/headline-bg.jpg');
+	background-color:#00010f;
+}
+
+.headline
+{
+	background-image:url('../img/theme-3/headline-lines.png');
+}
+
+.footerline
+{
+	background-image:url('../img/theme-3/headline-bg.jpg');
+	background-color:#00010f;
+}
+
+a,
+h2,
+h3,
+h4,
+h5,
+h6,
+.agenda-day
+{
+	color:#aa0017;
+}
+
+h1 span
+{
+	color:#de003b;
+}
+
+.countdown-box .field .value
+{
+	color:#aa0017;
+}
+
+.register-button
+{
+	background: #8b0719;
+  background: -moz-linear-gradient(top, #af162b, #770111);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#af162b), color-stop(100%,#770111));
+  background: -webkit-linear-gradient(top, #af162b, #770111);
+  background: linear-gradient(top, #af162b, #770111);
+}
+
+.agenda-item .time span
+{
+	background-color:#af162b;
+	border-color:#af162b;
+}
+
+.footerline, .footerline a
+{
+	color:#c8b4d2;
+}

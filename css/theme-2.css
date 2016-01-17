@@ -1,0 +1,73 @@
+h2
+{
+	background:url('../img/theme-2/content-h-bg.png');
+}
+
+.headline-wrapper
+{
+	background-image:url('../img/theme-2/headline-bg.jpg');
+	background-color:#00010d;
+}
+
+.headline
+{
+	background-image:url('../img/theme-2/headline-lines.png');
+}
+
+.footerline
+{
+	background-image:url('../img/theme-2/headline-bg.jpg');
+	background-color:#00010d;
+}
+
+.contentline-inner
+{
+	margin-bottom:-200px;
+}
+
+.footerline-inner
+{
+	background-color:rgba(0,0,0,0.2);
+	padding-top:190px;
+}
+
+a,
+h2,
+h3,
+h4,
+h5,
+h6,
+.agenda-day
+{
+	color:#95880d;
+}
+
+h1 span
+{
+	color:#ebdc6d;
+}
+
+.countdown-box .field .value
+{
+	color:#95880d;
+}
+
+.register-button
+{
+	background: #a79918;
+  background: -moz-linear-gradient(top, #cbbc2a, #857905);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#cbbc2a), color-stop(100%,#857905));
+  background: -webkit-linear-gradient(top, #cbbc2a, #857905);
+  background: linear-gradient(top, #cbbc2a, #857905);
+}
+
+.agenda-item .time span
+{
+	background-color:#a79918;
+	border-color:#a79918;
+}
+
+.footerline, .footerline a
+{
+	color:#e4deaa;
+}

@@ -1,0 +1,70 @@
+h2
+{
+	background:url('../img/theme-5/content-h-bg.png');
+}
+
+.headline-wrapper
+{
+	background-image:url('../img/theme-5/headline-bg.jpg');
+	background-color:#00010d;
+}
+
+.headline
+{
+	background-image:url('../img/theme-5/headline-lines.png');
+}
+
+.footerline
+{
+	background-image:url('../img/theme-5/headline-bg.jpg');
+	background-color:#00010d;
+}
+
+.contentline-inner
+{
+	margin-bottom:-240px;
+}
+
+.footerline-inner
+{
+	background-color:rgba(0,0,0,0.15);
+	padding-top:230px;
+}
+
+
+a,
+h2,
+h3,
+h4,
+h5,
+h6,
+.agenda-day
+{
+	color:#1f80a3;
+}
+
+
+h1 span
+{
+	color:#eed75d;
+}
+
+.countdown-box .field .value
+{
+	color:#338fc9;
+}
+
+.register-button
+{
+	background: #2e88a5;
+  background: -moz-linear-gradient(top, #48b4dc, #156782);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#48b4dc), color-stop(100%,#156782));
+  background: -webkit-linear-gradient(top, #48b4dc, #156782);
+  background: linear-gradient(top, #48b4dc, #156782);
+}
+
+.agenda-item .time span
+{
+	background-color:#3497bb;
+	border-color:#3497bb;
+}
